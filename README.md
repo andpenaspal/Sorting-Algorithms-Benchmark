@@ -30,16 +30,22 @@ The Report explains step by step the internal logic of the different sorting alg
 Finally, an analysis of the results is made with the help of Statistical graphics.
 
 #### Examples:
+* Step by Step explanation of a Sorting Algorithm
 <p align="center">
     <img src="https://imgur.com/btQ9Sxg.jpeg" alt="HomePage" width="500"/>
 </p>
 
+* Best-case scenario analysis
 <p align="center">
     <img src="https://imgur.com/xbEfn9H.jpeg" alt="HomePage" width="500"/>
 </p>
+
+* Implementation example
 <p align="center">
     <img src="https://imgur.com/W7zndqe.jpeg" alt="HomePage" width="500"/>
 </p>
+
+* Statistical graphic example
 <p align="center">
     <img src="https://imgur.com/5YyPyve.jpeg" alt="HomePage" width="500"/>
 </p>
