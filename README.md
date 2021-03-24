@@ -25,7 +25,7 @@ Sizes of randomly generated integers used: 100 | 500 | 1,000 | 2,500 | 5,000 | 7
 Example: The running time for Bubble Sort on Size 100 is the average running time of Bubble Sort sorting 100 random integers 10 times.
 
 ### Report Overview
-The Report explains step by step the internal logic of the different sorting algorithms used in the Benchmark, with examples and drawings to follow the different steps and discussing their time and space complexity; the explanation of the best, average and worst scenario is analyzed too and the implementation of each algorithm is explained.
+The Report explains step by step the internal logic of the different sorting algorithms used in the Benchmark, with examples and drawings to follow the different steps and discussing their time and space complexity; the explanation of the best, average and worst scenario is analysed too and the implementation of each algorithm is explained.
 
 Finally, an analysis of the results is made with the help of Statistical graphics.
 
