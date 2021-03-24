@@ -61,7 +61,7 @@ JAVA JRE 8 (or superior)
 Compile and run the "Runner" from the Command Prompt.
 
 ## Usage
-The results will be printed in console and exported to a CSV file in the root directory.
+The results of the Benchmark will be printed in console and exported to a CSV file in the root directory.
 
 ## License
 MIT License. See "LICENSE" for further information.
